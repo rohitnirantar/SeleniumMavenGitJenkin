@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="47856" started-at="2017-07-15T11:19:05Z" finished-at="2017-07-15T11:19:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="47856" started-at="2017-07-15T11:19:05Z" finished-at="2017-07-15T11:19:53Z">
+      <class name="SeleniumWithMaven.SeleniumWithMavenArtifact.FirstTestCase">
+        <test-method status="PASS" signature="LaunchGuru99()[pri:0, instance:SeleniumWithMaven.SeleniumWithMavenArtifact.FirstTestCase@2a18f23c]" name="LaunchGuru99" duration-ms="8884" started-at="2017-07-15T06:19:26Z" finished-at="2017-07-15T06:19:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchGuru99 -->
+        <test-method status="PASS" signature="LaunchYahoo()[pri:0, instance:SeleniumWithMaven.SeleniumWithMavenArtifact.FirstTestCase@2a18f23c]" name="LaunchYahoo" duration-ms="18310" started-at="2017-07-15T06:19:35Z" finished-at="2017-07-15T06:19:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchYahoo -->
+      </class> <!-- SeleniumWithMaven.SeleniumWithMavenArtifact.FirstTestCase -->
+      <class name="SeleniumWithMaven.SeleniumWithMavenArtifact.SecondTestCase">
+        <test-method status="PASS" signature="LaunchDemoqa()[pri:0, instance:SeleniumWithMaven.SeleniumWithMavenArtifact.SecondTestCase@7e0babb1]" name="LaunchDemoqa" duration-ms="12045" started-at="2017-07-15T06:19:05Z" finished-at="2017-07-15T06:19:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchDemoqa -->
+        <test-method status="PASS" signature="LaunchGooglePage()[pri:0, instance:SeleniumWithMaven.SeleniumWithMavenArtifact.SecondTestCase@7e0babb1]" name="LaunchGooglePage" duration-ms="8590" started-at="2017-07-15T06:19:17Z" finished-at="2017-07-15T06:19:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchGooglePage -->
+      </class> <!-- SeleniumWithMaven.SeleniumWithMavenArtifact.SecondTestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

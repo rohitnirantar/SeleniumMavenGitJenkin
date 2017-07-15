@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="RohitvarshaPC" name="SeleniumWithMaven.SeleniumWithMavenArtifact.FirstTestCase" tests="4" failures="0" timestamp="15 Jul 2017 11:27:58 GMT" time="62.368" errors="0">
+  <testcase name="LaunchGuru99" time="11.411" classname="SeleniumWithMaven.SeleniumWithMavenArtifact.FirstTestCase"/>
+  <testcase name="LaunchYahoo" time="25.176" classname="SeleniumWithMaven.SeleniumWithMavenArtifact.FirstTestCase"/>
+  <testcase name="LaunchDemoqa" time="15.382" classname="SeleniumWithMaven.SeleniumWithMavenArtifact.SecondTestCase"/>
+  <testcase name="LaunchGooglePage" time="10.384" classname="SeleniumWithMaven.SeleniumWithMavenArtifact.SecondTestCase"/>
+</testsuite>
