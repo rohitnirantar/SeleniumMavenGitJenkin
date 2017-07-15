@@ -13,7 +13,7 @@ public class FirstTestCase {
 		System.setProperty("webdriver.gecko.driver", "E:\\Professional\\Selenium Automation\\geckodriver-v0.16.1-win64\\geckodriver.exe");
 		// Create a new instance of the Firefox driver
 		WebDriver driver = new FirefoxDriver();
-		
+		//Adding New Coments
         //Launch the Online Store Website
 		driver.get("http://www.guru99.com");
  
@@ -43,7 +43,7 @@ public class FirstTestCase {
 		driver.get("http://www.Yahoo.com");
  
         // Print a Log In message to the screen
-        System.out.println("Successfully opened the website www.Yahoo.com");
+        System.out.println("Successfully opened the website www.rediff.com");
  
 		//Wait for 5 Sec
 		try {
